@@ -36,7 +36,8 @@ The notebook covers the following steps:
 - Achieved ~80–85% accuracy
 - Interpretable model with clear decision rules
 
-## ▶️ How to Run
+##  How to Run
 
 pip install -r requirements.txt
+
 jupyter notebook
